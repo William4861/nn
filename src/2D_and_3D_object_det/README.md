@@ -1,1 +1,0 @@
-这是一个2D_and_3D_object_det的系统项目
